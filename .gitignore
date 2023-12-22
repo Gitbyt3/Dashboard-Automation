@@ -1,5 +1,6 @@
 chromedriver.exe
 API_Files/
 Data/
+*.ipynb_checkpoints/
 *.ipynb_checkpoints/*
 Main.ipynb
